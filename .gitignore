@@ -1,3 +1,6 @@
+SnapXBlock.egg-info/
+snap.egg-info/
+
 # Logs
 logs
 *.log
@@ -73,3 +76,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.xml
+*.iml
+*.pyc
